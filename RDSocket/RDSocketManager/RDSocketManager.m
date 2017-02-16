@@ -47,6 +47,7 @@
     }
     if (![self.socket beginReceiving:&error])
     {
+        
         NSLog(@"Error receiving: %@", error);
         return;
     }
