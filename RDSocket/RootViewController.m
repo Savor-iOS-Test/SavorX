@@ -23,6 +23,8 @@
     [super didReceiveMemoryWarning];
     
     //zheshiceshi
+    
+    //ceshi diyici
     // Dispose of any resources that can be recreated.
 }
 
