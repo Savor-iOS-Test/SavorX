@@ -48,6 +48,10 @@
     if (![self.socket beginReceiving:&error])
     {
         
+        
+        
+        NSString * str;
+        
         NSLog(@"Error receiving: %@", error);
         return;
     }
