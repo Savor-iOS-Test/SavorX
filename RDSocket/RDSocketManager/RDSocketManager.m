@@ -39,12 +39,10 @@
     NSError *error = nil;
     if (![self.socket bindToPort:3336 error:&error])
     {
-        NSLog(@"Error binding: %@", error);
         return;
     }
     if (![self.socket joinMulticastGroup:@"239.11.2.6" error:&error])
     {
-        NSLog(@"Error join: %@", error);
         return;
     }
     if (![self.socket beginReceiving:&error])
