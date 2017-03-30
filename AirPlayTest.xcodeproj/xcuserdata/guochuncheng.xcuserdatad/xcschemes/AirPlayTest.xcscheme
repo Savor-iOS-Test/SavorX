@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "065BE5571DBEFC2900D1A5BB"
-               BuildableName = "RDSocket.app"
-               BlueprintName = "RDSocket"
-               ReferencedContainer = "container:RDSocket.xcodeproj">
+               BlueprintIdentifier = "06F63E4E1E8360B6004E8A00"
+               BuildableName = "AirPlayTest.app"
+               BlueprintName = "AirPlayTest"
+               ReferencedContainer = "container:AirPlayTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "065BE5701DBEFC2A00D1A5BB"
-               BuildableName = "RDSocketTests.xctest"
-               BlueprintName = "RDSocketTests"
-               ReferencedContainer = "container:RDSocket.xcodeproj">
+               BlueprintIdentifier = "06F63E671E8360B6004E8A00"
+               BuildableName = "AirPlayTestTests.xctest"
+               BlueprintName = "AirPlayTestTests"
+               ReferencedContainer = "container:AirPlayTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "065BE57B1DBEFC2A00D1A5BB"
-               BuildableName = "RDSocketUITests.xctest"
-               BlueprintName = "RDSocketUITests"
-               ReferencedContainer = "container:RDSocket.xcodeproj">
+               BlueprintIdentifier = "06F63E721E8360B6004E8A00"
+               BuildableName = "AirPlayTestUITests.xctest"
+               BlueprintName = "AirPlayTestUITests"
+               ReferencedContainer = "container:AirPlayTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "065BE5571DBEFC2900D1A5BB"
-            BuildableName = "RDSocket.app"
-            BlueprintName = "RDSocket"
-            ReferencedContainer = "container:RDSocket.xcodeproj">
+            BlueprintIdentifier = "06F63E4E1E8360B6004E8A00"
+            BuildableName = "AirPlayTest.app"
+            BlueprintName = "AirPlayTest"
+            ReferencedContainer = "container:AirPlayTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "065BE5571DBEFC2900D1A5BB"
-            BuildableName = "RDSocket.app"
-            BlueprintName = "RDSocket"
-            ReferencedContainer = "container:RDSocket.xcodeproj">
+            BlueprintIdentifier = "06F63E4E1E8360B6004E8A00"
+            BuildableName = "AirPlayTest.app"
+            BlueprintName = "AirPlayTest"
+            ReferencedContainer = "container:AirPlayTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "065BE5571DBEFC2900D1A5BB"
-            BuildableName = "RDSocket.app"
-            BlueprintName = "RDSocket"
-            ReferencedContainer = "container:RDSocket.xcodeproj">
+            BlueprintIdentifier = "06F63E4E1E8360B6004E8A00"
+            BuildableName = "AirPlayTest.app"
+            BlueprintName = "AirPlayTest"
+            ReferencedContainer = "container:AirPlayTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,12 +1,13 @@
 //
 //  AppDelegate.m
-//  RDSocket
+//  AirPlayTest
 //
-//  Created by 郭春城 on 16/10/25.
-//  Copyright © 2016年 郭春城. All rights reserved.
+//  Created by 郭春城 on 17/3/23.
+//  Copyright © 2017年 郭春城. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "RootViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,15 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    self.window.backgroundColor = [UIColor whiteColor];
+    
+    RootViewController * root = [[RootViewController alloc] init];
+    UINavigationController * na = [[UINavigationController alloc] initWithRootViewController:root];
+    self.window.rootViewController = na;
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 

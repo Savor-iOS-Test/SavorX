@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>RDSocket.xcscheme</key>
+		<key>AirPlayTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>065BE5571DBEFC2900D1A5BB</key>
+		<key>06F63E4E1E8360B6004E8A00</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>065BE5701DBEFC2A00D1A5BB</key>
+		<key>06F63E671E8360B6004E8A00</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>065BE57B1DBEFC2A00D1A5BB</key>
+		<key>06F63E721E8360B6004E8A00</key>
 		<dict>
 			<key>primary</key>
 			<true/>

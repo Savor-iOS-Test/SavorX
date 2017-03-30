@@ -1,18 +1,18 @@
 //
-//  RDSocketUITests.m
-//  RDSocketUITests
+//  AirPlayTestUITests.m
+//  AirPlayTestUITests
 //
-//  Created by 郭春城 on 16/10/25.
-//  Copyright © 2016年 郭春城. All rights reserved.
+//  Created by 郭春城 on 17/3/23.
+//  Copyright © 2017年 郭春城. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface RDSocketUITests : XCTestCase
+@interface AirPlayTestUITests : XCTestCase
 
 @end
 
-@implementation RDSocketUITests
+@implementation AirPlayTestUITests
 
 - (void)setUp {
     [super setUp];
